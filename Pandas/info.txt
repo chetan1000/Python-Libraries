@@ -1,0 +1,5 @@
+it contains Pandas code and its implementations.
+
+Pandas Documentations: https://pandas.pydata.org/pandas-docs/stable/
+
+for referenced youtube vidio link: https://youtu.be/vmEHCJofslg
